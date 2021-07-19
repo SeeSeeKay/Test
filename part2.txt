@@ -1,2 +1,3 @@
 This part of question is about the web development.
 This part include Ecommerce platform development as well.
+Hey, you know what, now this part excludes ecommerce platform development.
